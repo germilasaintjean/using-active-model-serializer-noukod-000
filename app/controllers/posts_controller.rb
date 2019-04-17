@@ -84,4 +84,4 @@ private
     params.require(:post).permit(:title, :description)
   end
 end
-© 2019 GitHub, Inc.
+
